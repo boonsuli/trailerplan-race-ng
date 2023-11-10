@@ -1,0 +1,43 @@
+{
+  "race-list": [
+    {
+      "id": 1001,
+      "name":"CPM28",
+      "country": "Espagne",
+      "city": "Le village de San Nicolas",
+      "zipCode": "34349",
+      "itraPoints": 1,
+      "mountainLevel": 5,
+      "finisherLevel": 340,
+      "championship":"Ligue nationale",
+      "date": "2023/11/10",
+      "startHour": "09:00:00",
+      "distance": "24km",
+      "positiveElevation": 1110,
+      "negativeElevation": 1110,
+      "timeLimit": "04:30:00",
+      "nbOfRefuelingStation": 3,
+      "nbOfTrailer": 150,
+      "description": "Carrera Media (CMP28) fait environ 24 km avec 1 185 mètres de dénivelé positif. Le départ est au même endroit que les autres courses, depuis le centre-ville, devant l'église, à La Alameda (Plaza Vieja). Prendre la même direction que les autres courses jusqu'au chemin qui monte au Viso en passant par la Cueva del Mediodía, en passant par Blanquizal, les maisons de Los Peñones, Las Casillas de El Cortijo de Inagua pour monter au Viso et descendre le chemin jusqu'à la Degollada de Tasarte par l'Andén Ancho et descendre au Barrio del Hoyo par La Vistilla et revenir par le Canal del Parralillo depuis El Hoyo jusqu'au Mirador de La Sabinilla en passant par La Era del Cabuco, sentier régional de La Aldea-Mogán jusqu'à le Barrio del Pinillo et retour au point de départ.\n\nLa Carrera Media (CMP28) mesure environ 24 km de long avec 1 185 mètres de dénivelé positif. Elle part du même endroit que les autres racines, de la vieille ville, devant l'église, à La Alameda (Plaza Vieja). Prendre la même direction que les autres courses jusqu'au chemin qui monte à El Viso par la Cueva del Mediodía, en passant par Blanquizal, les maisons de Los Peñones, Las Casillas de El Cortijo de Inagua pour monter à El Viso et descendre le chemin vers Degollada de Tasarte par l'Andén Ancho et descendre au Barrio del Hoyo par La Vistilla et revenir par le Canal del Parralillo depuis El Hoyo jusqu'au Mirador de La Sabinilla en descendant par La Era del Cab uco, régional de La Aldea-Mogán chemin jusqu'au Barrio del Pinillo et retour au point de départ."
+    }, {
+      "id": 1002,
+      "name":"Trail des Châtaignes",
+      "country": "France",
+      "city": "Cormeilles-en-Parisis",
+      "zipCode": "95240",
+      "itraPoints": 2,
+      "mountainLevel": 3,
+      "finisherLevel": 410,
+      "championship":"Ligue nationale",
+      "date": "2023/11/18",
+      "startHour": "07:00:00",
+      "distance": "47km",
+      "positiveElevation": 1440,
+      "negativeElevation": 1440,
+      "timeLimit": "08:00:00",
+      "nbOfRefuelingStation": 3,
+      "nbOfTrailer": 500,
+      "description": "Le gros morceaux du TDC, elle est de retour en 2023. Comme toute bonne course du TDC qui se respecte, vous partirez du Fort pour un premier tour dans les douves. En sortie de celui ci, direction une prairie pour faire le tour du Fort et ressortir sur la Route Stratégique afin de rejoindre le cœur des Buttes sur quelques kilomètres qui vous feront basculer vers les marches du Parc Schlumberger. En sortie du Parc, vous découvrirez un nouveau tronçon avant de recouper la route stratégique et redescendre vers le 1er ravito de la journée. Prenez des forces avant de rejoindre la zone de la carrière. Certes, les descentes sont longues mais les montées le sont tout autant. Rendez vous au kilomètre 24 pour un nouveau ravitaillement avant de vous diriger vers les Buttes de Sannois pour un peu de tourisme en sous-bois et regarder les moulins. Place ensuite aux historiques marches de la Buttes des Châtaigniers (que de souvenirs de cette première édition). Il va falloir penser à revenir après cette séquence émotion, en passant essentiellement en sous bois jusqu'à votre dernier ravito en course (kilomètre 38). Vous reconnaissez le chemin, c'est normal. Comptez à nouveau les marches :-) Direction le fort avec vos frontales allumées pour 3 kilomètres au cœur de celui ci. Aller, c'est terminé."
+    }
+  ]
+}

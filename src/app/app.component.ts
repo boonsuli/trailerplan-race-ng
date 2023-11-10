@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'trailerplan-race-ng';
+  footerUrl = 'https://www.trailerplan.com/';
+  footerLink = 'www.trailerplan.com';
+  checkError() {
+    var err = 10;
+    return err;
+  }
 }
