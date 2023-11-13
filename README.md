@@ -1,7 +1,6 @@
 ![Angular 16.2.12](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular Material 16.2.12](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Tailwind css 3.3.5](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![json-server 0.17.4](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Linux mint Version](https://img.shields.io/badge/linuxmint-20-brightgreen.svg)](https://linuxmint.com/)
 
 
